@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ 	<project name="Galaxy-J2/android_device_samsung_j2lte" 	path="device/samsung/j2lte" 	remote="github" revision="cm-12.1" />
+ 	<project name="Galaxy-J2/android_kernel_samsung_j2lte" 	path="kernel/samsung/j2lte" 	remote="github" revision="cm-12.1" />
+	<project name="Galaxy-J2/android_vendor_samsung_j2lte" 	path="vendor/samsung/j2lte" 	remote="github" revision="cm-12.1" />
+
+	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" />
+ 	<project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" />
+
+</manifest>
